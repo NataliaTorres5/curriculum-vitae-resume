@@ -4,4 +4,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nataliamtorresm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nataliamtorresm/" height="30" width="40" Target="_blank" /></a>
 </p>
+# English CV
+<img  src='./NataliaTorresCVEnglish.png' with='100%'/>
+<br></br>
+#CV Español
 <img  src='./NataliaTorresCV.png' with='100%'/>
