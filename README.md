@@ -7,5 +7,5 @@
 # English CV
 <img  src='./NataliaTorresCVEnglish.png' with='100%'/>
 <br></br>
-#CV Español
+# CV Español
 <img  src='./NataliaTorresCV.png' with='100%'/>
